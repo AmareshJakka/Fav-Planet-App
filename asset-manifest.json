@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fav-Planet-App/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Fav-Planet-App/static/js/main.1fe6bbfc.chunk.js",
+    "main.js.map": "/Fav-Planet-App/static/js/main.1fe6bbfc.chunk.js.map",
+    "runtime-main.js": "/Fav-Planet-App/static/js/runtime-main.7a7db83b.js",
+    "runtime-main.js.map": "/Fav-Planet-App/static/js/runtime-main.7a7db83b.js.map",
+    "static/js/2.dcb1fb8d.chunk.js": "/Fav-Planet-App/static/js/2.dcb1fb8d.chunk.js",
+    "static/js/2.dcb1fb8d.chunk.js.map": "/Fav-Planet-App/static/js/2.dcb1fb8d.chunk.js.map",
+    "static/js/3.3b3445ac.chunk.js": "/Fav-Planet-App/static/js/3.3b3445ac.chunk.js",
+    "static/js/3.3b3445ac.chunk.js.map": "/Fav-Planet-App/static/js/3.3b3445ac.chunk.js.map",
+    "index.html": "/Fav-Planet-App/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/Fav-Planet-App/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.dcb1fb8d.chunk.js.LICENSE.txt": "/Fav-Planet-App/static/js/2.dcb1fb8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a7db83b.js",
+    "static/js/2.dcb1fb8d.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.1fe6bbfc.chunk.js"
+  ]
+}
